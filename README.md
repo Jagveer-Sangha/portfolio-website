@@ -5,9 +5,9 @@ A customizable personal portfolio website built with HTML, CSS, & Javascript.
 
 # TODO
 
+- Implement node.js and react into the website
 - Create a contact-me page
-- Add up to date images
+- Add updated images
 - Create separate pages for each portfolio item
-- Add more javascript animations
 - Deploy the website via github
 
